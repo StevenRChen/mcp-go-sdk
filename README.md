@@ -13,7 +13,7 @@ development kit (SDK) for the Model Context Protocol (MCP).
 
 The SDK consists of several importable packages:
 
-Test change
+Test change 2
 
 - The
   [`github.com/modelcontextprotocol/go-sdk/mcp`](https://pkg.go.dev/github.com/modelcontextprotocol/go-sdk/mcp)
